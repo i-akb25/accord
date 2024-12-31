@@ -1,7 +1,3 @@
-Here is a professional README file for your repository:
-
----
-
 # Accord - The Gaming Proforma
 
 <div align="center">
@@ -88,6 +84,3 @@ Ensure the following tools are installed on your machine:
 
 Explore the project at the [Accord Repository](https://github.com/i-akb25/accord/).
 
---- 
-
-This README provides an appealing, professional layout for your project. Let me know if you'd like any further refinements!
